@@ -1,0 +1,548 @@
+VISIT_NUMBER,MRN,DIAGNOSIS_CODE,DIAGNOSIS_DESCRIPTION,CODING_SYSTEM,DIAGNOSIS_TYPE,DIAGNOSIS_TYPE_DESC,DIAGNOSIS_DATETIME,DIAGNOSIS_PRIORITY
+V1900001,11289270,N39.0,"Urinary tract infection, site not specified",I10,A,Admitting,2024-08-24 20:10:27,1
+V1900001,11289270,N39.0,"Urinary tract infection, site not specified",I10,F,Final,2024-08-25 00:01:13,1
+V1900001,11289270,E11.9,Type 2 diabetes mellitus without complications,I10,F,Final,2024-08-25 00:01:13,2
+V1900001,11289270,E78.5,"Hyperlipidemia, unspecified",I10,F,Final,2024-08-25 00:01:13,3
+V1900001,11289270,I10,Essential (primary) hypertension,I10,F,Final,2024-08-25 00:01:13,4
+V1900002,12606616,R10.9,Unspecified abdominal pain,I10,A,Admitting,2024-05-14 22:20:14,1
+V1900002,12606616,R10.9,Unspecified abdominal pain,I10,F,Final,2024-05-15 03:42:57,1
+V1900002,12606616,R11.2,"Nausea with vomiting, unspecified",I10,F,Final,2024-05-15 03:42:57,2
+V1900002,12606616,E11.9,Type 2 diabetes mellitus without complications,I10,F,Final,2024-05-15 03:42:57,3
+V1900002,12606616,E78.5,"Hyperlipidemia, unspecified",I10,F,Final,2024-05-15 03:42:57,4
+V1900003,12606616,Z00.00,Encounter for general adult medical examination without abnormal findings,I10,A,Admitting,2024-08-16 11:11:48,1
+V1900003,12606616,Z00.00,Encounter for general adult medical examination without abnormal findings,I10,F,Final,2024-08-16 11:36:48,1
+V1900003,12606616,I10,Essential (primary) hypertension,I10,F,Final,2024-08-16 11:36:48,2
+V1900004,13507537,R07.9,"Chest pain, unspecified",I10,A,Admitting,2024-11-17 20:28:14,1
+V1900004,13507537,R07.9,"Chest pain, unspecified",I10,F,Final,2024-11-18 00:33:46,1
+V1900005,13881539,I10,Essential (primary) hypertension,I10,A,Admitting,2024-02-20 12:41:49,1
+V1900005,13881539,I10,Essential (primary) hypertension,I10,F,Final,2024-02-20 13:35:49,1
+V1900006,13881539,J18.9,"Pneumonia, unspecified organism",I10,A,Admitting,2024-02-28 02:10:26,1
+V1900006,13881539,J96.01,Acute respiratory failure with hypoxia,I10,W,Working,2024-02-28 19:50:26,2
+V1900006,13881539,J18.9,"Pneumonia, unspecified organism",I10,F,Final,2024-03-04 14:09:16,1
+V1900006,13881539,J96.01,Acute respiratory failure with hypoxia,I10,F,Final,2024-03-04 14:09:16,2
+V1900006,13881539,I50.22,Chronic systolic (congestive) heart failure,I10,F,Final,2024-03-04 14:09:16,3
+V1900007,13881539,Z00.00,Encounter for general adult medical examination without abnormal findings,I10,A,Admitting,2024-04-23 15:24:08,1
+V1900007,13881539,Z00.00,Encounter for general adult medical examination without abnormal findings,I10,F,Final,2024-04-23 16:00:08,1
+V1900007,13881539,I10,Essential (primary) hypertension,I10,F,Final,2024-04-23 16:00:08,2
+V1900008,13881539,S06.0X0A,"Concussion without loss of consciousness, initial encounter",I10,A,Admitting,2024-11-09 00:09:10,1
+V1900008,13881539,S06.0X0A,"Concussion without loss of consciousness, initial encounter",I10,F,Final,2024-11-09 03:36:45,1
+V1900008,13881539,W19.XXXA,"Unspecified fall, initial encounter",I10,F,Final,2024-11-09 03:36:45,2
+V1900008,13881539,E78.5,"Hyperlipidemia, unspecified",I10,F,Final,2024-11-09 03:36:45,3
+V1900009,16121627,N39.0,"Urinary tract infection, site not specified",I10,A,Admitting,2024-04-08 20:38:46,1
+V1900009,16121627,N39.0,"Urinary tract infection, site not specified",I10,F,Final,2024-04-08 23:36:42,1
+V1900009,16121627,E78.5,"Hyperlipidemia, unspecified",I10,F,Final,2024-04-08 23:36:42,2
+V1900010,17849728,Z00.00,Encounter for general adult medical examination without abnormal findings,I10,A,Admitting,2024-03-24 12:51:19,1
+V1900010,17849728,Z00.00,Encounter for general adult medical examination without abnormal findings,I10,F,Final,2024-03-24 13:47:19,1
+V1900010,17849728,I10,Essential (primary) hypertension,I10,F,Final,2024-03-24 13:47:19,2
+V1900011,18700849,Z00.00,Encounter for general adult medical examination without abnormal findings,I10,A,Admitting,2024-02-23 10:37:21,1
+V1900011,18700849,Z00.00,Encounter for general adult medical examination without abnormal findings,I10,F,Final,2024-02-23 11:15:21,1
+V1900011,18700849,I10,Essential (primary) hypertension,I10,F,Final,2024-02-23 11:15:21,2
+V1900012,18700849,R10.9,Unspecified abdominal pain,I10,A,Admitting,2024-09-27 18:36:39,1
+V1900012,18700849,R10.9,Unspecified abdominal pain,I10,F,Final,2024-09-27 23:05:25,1
+V1900012,18700849,R11.2,"Nausea with vomiting, unspecified",I10,F,Final,2024-09-27 23:05:25,2
+V1900012,18700849,I10,Essential (primary) hypertension,I10,F,Final,2024-09-27 23:05:25,3
+V1900013,18784440,Z00.00,Encounter for general adult medical examination without abnormal findings,I10,A,Admitting,2024-01-09 13:47:31,1
+V1900013,18784440,Z00.00,Encounter for general adult medical examination without abnormal findings,I10,F,Final,2024-01-09 14:24:31,1
+V1900013,18784440,E11.9,Type 2 diabetes mellitus without complications,I10,F,Final,2024-01-09 14:24:31,2
+V1900013,18784440,E78.5,"Hyperlipidemia, unspecified",I10,F,Final,2024-01-09 14:24:31,3
+V1900014,21707266,I50.23,Acute on chronic systolic (congestive) heart failure,I10,A,Admitting,2024-04-16 14:45:54,1
+V1900014,21707266,I50.23,Acute on chronic systolic (congestive) heart failure,I10,F,Final,2024-04-20 11:23:35,1
+V1900014,21707266,J44.9,"Chronic obstructive pulmonary disease, unspecified",I10,F,Final,2024-04-20 11:23:35,2
+V1900014,21707266,I10,Essential (primary) hypertension,I10,F,Final,2024-04-20 11:23:35,3
+V1900015,22146511,J18.9,"Pneumonia, unspecified organism",I10,A,Admitting,2024-04-10 23:48:49,1
+V1900015,22146511,J18.9,"Pneumonia, unspecified organism",I10,F,Final,2024-04-12 13:05:59,1
+V1900016,22146511,Z00.00,Encounter for general adult medical examination without abnormal findings,I10,A,Admitting,2024-05-22 08:13:22,1
+V1900016,22146511,Z00.00,Encounter for general adult medical examination without abnormal findings,I10,F,Final,2024-05-22 09:22:22,1
+V1900017,22146511,Z00.00,Encounter for general adult medical examination without abnormal findings,I10,A,Admitting,2024-10-20 10:23:51,1
+V1900017,22146511,Z00.00,Encounter for general adult medical examination without abnormal findings,I10,F,Final,2024-10-20 11:31:51,1
+V1900018,22146511,R10.9,Unspecified abdominal pain,I10,A,Admitting,2024-12-28 12:43:06,1
+V1900018,22146511,R10.9,Unspecified abdominal pain,I10,F,Final,2024-12-28 15:35:32,1
+V1900018,22146511,I10,Essential (primary) hypertension,I10,F,Final,2024-12-28 15:35:32,2
+V1900019,23362068,Z00.00,Encounter for general adult medical examination without abnormal findings,I10,A,Admitting,2024-04-27 12:40:45,1
+V1900019,23362068,Z00.00,Encounter for general adult medical examination without abnormal findings,I10,F,Final,2024-04-27 13:29:45,1
+V1900019,23362068,E11.9,Type 2 diabetes mellitus without complications,I10,F,Final,2024-04-27 13:29:45,2
+V1900019,23362068,E78.5,"Hyperlipidemia, unspecified",I10,F,Final,2024-04-27 13:29:45,3
+V1900020,23732708,J18.9,"Pneumonia, unspecified organism",I10,A,Admitting,2024-08-19 10:02:39,1
+V1900020,23732708,J18.9,"Pneumonia, unspecified organism",I10,F,Final,2024-08-22 13:33:36,1
+V1900020,23732708,I50.22,Chronic systolic (congestive) heart failure,I10,F,Final,2024-08-22 13:33:36,2
+V1900020,23732708,J44.9,"Chronic obstructive pulmonary disease, unspecified",I10,F,Final,2024-08-22 13:33:36,3
+V1900020,23732708,E78.5,"Hyperlipidemia, unspecified",I10,F,Final,2024-08-22 13:33:36,4
+V1900020,23732708,I10,Essential (primary) hypertension,I10,F,Final,2024-08-22 13:33:36,5
+V1900021,23732708,J18.9,"Pneumonia, unspecified organism",I10,A,Admitting,2024-12-27 13:21:26,1
+V1900021,23732708,J18.9,"Pneumonia, unspecified organism",I10,F,Final,2024-12-31 09:52:17,1
+V1900021,23732708,I10,Essential (primary) hypertension,I10,F,Final,2024-12-31 09:52:17,2
+V1900022,23998553,R10.9,Unspecified abdominal pain,I10,A,Admitting,2024-07-17 06:43:17,1
+V1900022,23998553,R10.9,Unspecified abdominal pain,I10,F,Final,2024-07-17 12:34:11,1
+V1900022,23998553,R11.2,"Nausea with vomiting, unspecified",I10,F,Final,2024-07-17 12:34:11,2
+V1900022,23998553,E78.5,"Hyperlipidemia, unspecified",I10,F,Final,2024-07-17 12:34:11,3
+V1900023,23998553,R10.9,Unspecified abdominal pain,I10,A,Admitting,2024-07-27 10:09:55,1
+V1900023,23998553,R10.9,Unspecified abdominal pain,I10,F,Final,2024-07-27 13:31:09,1
+V1900023,23998553,R11.2,"Nausea with vomiting, unspecified",I10,F,Final,2024-07-27 13:31:09,2
+V1900023,23998553,I10,Essential (primary) hypertension,I10,F,Final,2024-07-27 13:31:09,3
+V1900024,23998553,R07.9,"Chest pain, unspecified",I10,A,Admitting,2024-10-30 19:47:05,1
+V1900024,23998553,R07.9,"Chest pain, unspecified",I10,F,Final,2024-10-30 23:31:38,1
+V1900024,23998553,E11.9,Type 2 diabetes mellitus without complications,I10,F,Final,2024-10-30 23:31:38,2
+V1900024,23998553,E78.5,"Hyperlipidemia, unspecified",I10,F,Final,2024-10-30 23:31:38,3
+V1900024,23998553,I10,Essential (primary) hypertension,I10,F,Final,2024-10-30 23:31:38,4
+V1900025,24187352,R10.9,Unspecified abdominal pain,I10,A,Admitting,2024-04-28 13:29:24,1
+V1900025,24187352,R10.9,Unspecified abdominal pain,I10,F,Final,2024-04-28 17:28:31,1
+V1900025,24187352,R11.2,"Nausea with vomiting, unspecified",I10,F,Final,2024-04-28 17:28:31,2
+V1900025,24187352,J44.9,"Chronic obstructive pulmonary disease, unspecified",I10,F,Final,2024-04-28 17:28:31,3
+V1900025,24187352,E11.9,Type 2 diabetes mellitus without complications,I10,F,Final,2024-04-28 17:28:31,4
+V1900025,24187352,E78.5,"Hyperlipidemia, unspecified",I10,F,Final,2024-04-28 17:28:31,5
+V1900026,24187352,N39.0,"Urinary tract infection, site not specified",I10,A,Admitting,2024-12-03 17:07:35,1
+V1900026,24187352,N39.0,"Urinary tract infection, site not specified",I10,F,Final,2024-12-03 20:26:40,1
+V1900027,24373298,R10.9,Unspecified abdominal pain,I10,A,Admitting,2024-11-28 05:26:03,1
+V1900027,24373298,R10.9,Unspecified abdominal pain,I10,F,Final,2024-11-28 10:12:40,1
+V1900027,24373298,R11.2,"Nausea with vomiting, unspecified",I10,F,Final,2024-11-28 10:12:40,2
+V1900027,24373298,I10,Essential (primary) hypertension,I10,F,Final,2024-11-28 10:12:40,3
+V1900028,25503773,R10.9,Unspecified abdominal pain,I10,A,Admitting,2024-03-18 20:58:35,1
+V1900028,25503773,R10.9,Unspecified abdominal pain,I10,F,Final,2024-03-19 02:39:38,1
+V1900029,25503773,R07.9,"Chest pain, unspecified",I10,A,Admitting,2024-05-21 09:29:34,1
+V1900029,25503773,R07.9,"Chest pain, unspecified",I10,F,Final,2024-05-21 14:19:28,1
+V1900029,25503773,E78.5,"Hyperlipidemia, unspecified",I10,F,Final,2024-05-21 14:19:28,2
+V1900030,25762005,R07.9,"Chest pain, unspecified",I10,A,Admitting,2024-10-28 20:32:38,1
+V1900030,25762005,R07.9,"Chest pain, unspecified",I10,F,Final,2024-10-29 00:47:52,1
+V1900030,25762005,E11.9,Type 2 diabetes mellitus without complications,I10,F,Final,2024-10-29 00:47:52,2
+V1900031,25762005,Z00.00,Encounter for general adult medical examination without abnormal findings,I10,A,Admitting,2024-12-08 15:02:42,1
+V1900031,25762005,Z00.00,Encounter for general adult medical examination without abnormal findings,I10,F,Final,2024-12-08 15:33:42,1
+V1900031,25762005,E78.5,"Hyperlipidemia, unspecified",I10,F,Final,2024-12-08 15:33:42,2
+V1900031,25762005,I10,Essential (primary) hypertension,I10,F,Final,2024-12-08 15:33:42,3
+V1900032,26995928,I21.4,Non-ST elevation (NSTEMI) myocardial infarction,I10,A,Admitting,2024-09-10 15:45:42,1
+V1900032,26995928,I25.10,Atherosclerotic heart disease of native coronary artery without angina pectoris,I10,W,Working,2024-09-11 06:44:42,2
+V1900032,26995928,I21.4,Non-ST elevation (NSTEMI) myocardial infarction,I10,F,Final,2024-09-12 10:35:13,1
+V1900032,26995928,I25.10,Atherosclerotic heart disease of native coronary artery without angina pectoris,I10,F,Final,2024-09-12 10:35:13,2
+V1900032,26995928,E11.9,Type 2 diabetes mellitus without complications,I10,F,Final,2024-09-12 10:35:13,3
+V1900033,26995928,R07.9,"Chest pain, unspecified",I10,A,Admitting,2024-10-03 18:06:32,1
+V1900033,26995928,R07.9,"Chest pain, unspecified",I10,F,Final,2024-10-03 23:43:47,1
+V1900034,30221092,Z00.00,Encounter for general adult medical examination without abnormal findings,I10,A,Admitting,2024-06-16 09:40:44,1
+V1900034,30221092,Z00.00,Encounter for general adult medical examination without abnormal findings,I10,F,Final,2024-06-16 10:22:44,1
+V1900035,30221092,N39.0,"Urinary tract infection, site not specified",I10,A,Admitting,2024-06-26 11:28:11,1
+V1900035,30221092,N39.0,"Urinary tract infection, site not specified",I10,F,Final,2024-06-26 16:20:52,1
+V1900035,30221092,E78.5,"Hyperlipidemia, unspecified",I10,F,Final,2024-06-26 16:20:52,2
+V1900036,33736828,R07.9,"Chest pain, unspecified",I10,A,Admitting,2024-04-05 05:36:18,1
+V1900036,33736828,R07.9,"Chest pain, unspecified",I10,F,Final,2024-04-05 11:09:29,1
+V1900036,33736828,I10,Essential (primary) hypertension,I10,F,Final,2024-04-05 11:09:29,2
+V1900037,34013664,R07.9,"Chest pain, unspecified",I10,A,Admitting,2024-03-04 17:15:15,1
+V1900037,34013664,R07.9,"Chest pain, unspecified",I10,F,Final,2024-03-04 22:27:58,1
+V1900037,34013664,I50.22,Chronic systolic (congestive) heart failure,I10,F,Final,2024-03-04 22:27:58,2
+V1900037,34013664,J44.9,"Chronic obstructive pulmonary disease, unspecified",I10,F,Final,2024-03-04 22:27:58,3
+V1900037,34013664,E78.5,"Hyperlipidemia, unspecified",I10,F,Final,2024-03-04 22:27:58,4
+V1900037,34013664,I10,Essential (primary) hypertension,I10,F,Final,2024-03-04 22:27:58,5
+V1900038,34013664,J44.1,Chronic obstructive pulmonary disease with (acute) exacerbation,I10,A,Admitting,2024-03-15 16:38:19,1
+V1900038,34013664,J44.1,Chronic obstructive pulmonary disease with (acute) exacerbation,I10,F,Final,2024-03-18 12:21:18,1
+V1900038,34013664,I10,Essential (primary) hypertension,I10,F,Final,2024-03-18 12:21:18,2
+V1900039,34013664,R07.9,"Chest pain, unspecified",I10,A,Admitting,2024-08-13 07:37:04,1
+V1900039,34013664,R07.9,"Chest pain, unspecified",I10,F,Final,2024-08-13 10:29:47,1
+V1900039,34013664,I10,Essential (primary) hypertension,I10,F,Final,2024-08-13 10:29:47,2
+V1900040,35446419,Z00.00,Encounter for general adult medical examination without abnormal findings,I10,A,Admitting,2024-05-03 08:14:57,1
+V1900040,35446419,Z00.00,Encounter for general adult medical examination without abnormal findings,I10,F,Final,2024-05-03 09:06:57,1
+V1900040,35446419,I10,Essential (primary) hypertension,I10,F,Final,2024-05-03 09:06:57,2
+V1900041,35446419,Z00.00,Encounter for general adult medical examination without abnormal findings,I10,A,Admitting,2024-11-20 14:46:40,1
+V1900041,35446419,Z00.00,Encounter for general adult medical examination without abnormal findings,I10,F,Final,2024-11-20 15:37:40,1
+V1900041,35446419,E78.5,"Hyperlipidemia, unspecified",I10,F,Final,2024-11-20 15:37:40,2
+V1900042,40950922,R10.9,Unspecified abdominal pain,I10,A,Admitting,2024-03-20 11:19:38,1
+V1900042,40950922,R10.9,Unspecified abdominal pain,I10,F,Final,2024-03-20 14:20:05,1
+V1900042,40950922,R11.2,"Nausea with vomiting, unspecified",I10,F,Final,2024-03-20 14:20:05,2
+V1900042,40950922,E11.9,Type 2 diabetes mellitus without complications,I10,F,Final,2024-03-20 14:20:05,3
+V1900042,40950922,E78.5,"Hyperlipidemia, unspecified",I10,F,Final,2024-03-20 14:20:05,4
+V1900043,40950922,E11.65,Type 2 diabetes mellitus with hyperglycemia,I10,A,Admitting,2024-04-21 13:18:12,1
+V1900043,40950922,E11.65,Type 2 diabetes mellitus with hyperglycemia,I10,F,Final,2024-04-21 13:50:12,1
+V1900044,40950922,R07.9,"Chest pain, unspecified",I10,A,Admitting,2024-12-14 01:01:36,1
+V1900044,40950922,R07.9,"Chest pain, unspecified",I10,F,Final,2024-12-14 04:19:14,1
+V1900044,40950922,E78.5,"Hyperlipidemia, unspecified",I10,F,Final,2024-12-14 04:19:14,2
+V1900045,41006555,R10.9,Unspecified abdominal pain,I10,A,Admitting,2024-04-12 22:10:23,1
+V1900045,41006555,R10.9,Unspecified abdominal pain,I10,F,Final,2024-04-13 04:23:53,1
+V1900045,41006555,R11.2,"Nausea with vomiting, unspecified",I10,F,Final,2024-04-13 04:23:53,2
+V1900045,41006555,E78.5,"Hyperlipidemia, unspecified",I10,F,Final,2024-04-13 04:23:53,3
+V1900046,43495334,R10.9,Unspecified abdominal pain,I10,A,Admitting,2024-11-23 18:12:40,1
+V1900046,43495334,R10.9,Unspecified abdominal pain,I10,F,Final,2024-11-23 21:17:24,1
+V1900046,43495334,E11.9,Type 2 diabetes mellitus without complications,I10,F,Final,2024-11-23 21:17:24,2
+V1900047,44659170,R07.9,"Chest pain, unspecified",I10,A,Admitting,2024-02-10 17:37:15,1
+V1900047,44659170,R07.9,"Chest pain, unspecified",I10,F,Final,2024-02-10 21:14:58,1
+V1900047,44659170,J44.9,"Chronic obstructive pulmonary disease, unspecified",I10,F,Final,2024-02-10 21:14:58,2
+V1900047,44659170,E78.5,"Hyperlipidemia, unspecified",I10,F,Final,2024-02-10 21:14:58,3
+V1900047,44659170,I10,Essential (primary) hypertension,I10,F,Final,2024-02-10 21:14:58,4
+V1900048,44659170,E11.65,Type 2 diabetes mellitus with hyperglycemia,I10,A,Admitting,2024-06-03 11:14:17,1
+V1900048,44659170,E11.65,Type 2 diabetes mellitus with hyperglycemia,I10,F,Final,2024-06-03 12:03:17,1
+V1900049,44659170,I10,Essential (primary) hypertension,I10,A,Admitting,2024-12-14 11:06:17,1
+V1900049,44659170,I10,Essential (primary) hypertension,I10,F,Final,2024-12-14 12:09:17,1
+V1900049,44659170,E11.9,Type 2 diabetes mellitus without complications,I10,F,Final,2024-12-14 12:09:17,2
+V1900050,44814650,Z00.00,Encounter for general adult medical examination without abnormal findings,I10,A,Admitting,2024-03-01 08:47:09,1
+V1900050,44814650,Z00.00,Encounter for general adult medical examination without abnormal findings,I10,F,Final,2024-03-01 09:17:09,1
+V1900050,44814650,E78.5,"Hyperlipidemia, unspecified",I10,F,Final,2024-03-01 09:17:09,2
+V1900051,45383262,N39.0,"Urinary tract infection, site not specified",I10,A,Admitting,2024-10-21 19:48:25,1
+V1900051,45383262,N39.0,"Urinary tract infection, site not specified",I10,F,Final,2024-10-22 01:17:09,1
+V1900051,45383262,E78.5,"Hyperlipidemia, unspecified",I10,F,Final,2024-10-22 01:17:09,2
+V1900052,45383262,A41.9,"Sepsis, unspecified organism",I10,A,Admitting,2024-10-30 16:57:31,1
+V1900052,45383262,N39.0,"Urinary tract infection, site not specified",I10,W,Working,2024-10-31 00:58:31,2
+V1900052,45383262,A41.9,"Sepsis, unspecified organism",I10,F,Final,2024-11-03 12:03:46,1
+V1900052,45383262,N39.0,"Urinary tract infection, site not specified",I10,F,Final,2024-11-03 12:03:46,2
+V1900053,45383262,N39.0,"Urinary tract infection, site not specified",I10,A,Admitting,2024-12-09 18:47:31,1
+V1900053,45383262,N39.0,"Urinary tract infection, site not specified",I10,F,Final,2024-12-09 23:12:07,1
+V1900054,49715114,R07.9,"Chest pain, unspecified",I10,A,Admitting,2024-06-16 07:00:04,1
+V1900054,49715114,R07.9,"Chest pain, unspecified",I10,F,Final,2024-06-16 09:57:16,1
+V1900055,49715114,N39.0,"Urinary tract infection, site not specified",I10,A,Admitting,2024-12-19 05:05:28,1
+V1900055,49715114,N39.0,"Urinary tract infection, site not specified",I10,F,Final,2024-12-19 10:44:13,1
+V1900056,50501710,Z00.00,Encounter for general adult medical examination without abnormal findings,I10,A,Admitting,2024-04-30 14:51:39,1
+V1900056,50501710,Z00.00,Encounter for general adult medical examination without abnormal findings,I10,F,Final,2024-04-30 15:44:39,1
+V1900056,50501710,J44.9,"Chronic obstructive pulmonary disease, unspecified",I10,F,Final,2024-04-30 15:44:39,2
+V1900056,50501710,E78.5,"Hyperlipidemia, unspecified",I10,F,Final,2024-04-30 15:44:39,3
+V1900057,52099051,A41.9,"Sepsis, unspecified organism",I10,A,Admitting,2024-03-24 18:36:48,1
+V1900057,52099051,N39.0,"Urinary tract infection, site not specified",I10,W,Working,2024-03-25 13:22:48,2
+V1900057,52099051,A41.9,"Sepsis, unspecified organism",I10,F,Final,2024-03-29 11:16:18,1
+V1900057,52099051,N39.0,"Urinary tract infection, site not specified",I10,F,Final,2024-03-29 11:16:18,2
+V1900058,52745240,R07.9,"Chest pain, unspecified",I10,A,Admitting,2024-09-21 17:53:05,1
+V1900058,52745240,R07.9,"Chest pain, unspecified",I10,F,Final,2024-09-21 20:42:35,1
+V1900058,52745240,I50.22,Chronic systolic (congestive) heart failure,I10,F,Final,2024-09-21 20:42:35,2
+V1900058,52745240,I10,Essential (primary) hypertension,I10,F,Final,2024-09-21 20:42:35,3
+V1900059,52745240,S06.0X0A,"Concussion without loss of consciousness, initial encounter",I10,A,Admitting,2024-12-29 08:57:32,1
+V1900059,52745240,S06.0X0A,"Concussion without loss of consciousness, initial encounter",I10,F,Final,2024-12-29 13:51:12,1
+V1900059,52745240,W19.XXXA,"Unspecified fall, initial encounter",I10,F,Final,2024-12-29 13:51:12,2
+V1900060,52957384,A41.9,"Sepsis, unspecified organism",I10,A,Admitting,2024-04-24 16:23:07,1
+V1900060,52957384,N39.0,"Urinary tract infection, site not specified",I10,W,Working,2024-04-25 13:09:07,2
+V1900060,52957384,A41.9,"Sepsis, unspecified organism",I10,F,Final,2024-04-28 11:18:16,1
+V1900060,52957384,N39.0,"Urinary tract infection, site not specified",I10,F,Final,2024-04-28 11:18:16,2
+V1900060,52957384,E78.5,"Hyperlipidemia, unspecified",I10,F,Final,2024-04-28 11:18:16,3
+V1900060,52957384,I10,Essential (primary) hypertension,I10,F,Final,2024-04-28 11:18:16,4
+V1900061,52957384,R10.9,Unspecified abdominal pain,I10,A,Admitting,2024-10-31 18:27:14,1
+V1900061,52957384,R10.9,Unspecified abdominal pain,I10,F,Final,2024-10-31 22:47:06,1
+V1900061,52957384,R11.2,"Nausea with vomiting, unspecified",I10,F,Final,2024-10-31 22:47:06,2
+V1900061,52957384,I10,Essential (primary) hypertension,I10,F,Final,2024-10-31 22:47:06,3
+V1900062,53111887,S06.0X0A,"Concussion without loss of consciousness, initial encounter",I10,A,Admitting,2024-10-17 06:04:29,1
+V1900062,53111887,S06.0X0A,"Concussion without loss of consciousness, initial encounter",I10,F,Final,2024-10-17 12:02:14,1
+V1900062,53111887,W19.XXXA,"Unspecified fall, initial encounter",I10,F,Final,2024-10-17 12:02:14,2
+V1900062,53111887,E11.9,Type 2 diabetes mellitus without complications,I10,F,Final,2024-10-17 12:02:14,3
+V1900063,53685553,Z00.00,Encounter for general adult medical examination without abnormal findings,I10,A,Admitting,2024-06-30 14:55:04,1
+V1900063,53685553,Z00.00,Encounter for general adult medical examination without abnormal findings,I10,F,Final,2024-06-30 15:27:04,1
+V1900064,53685553,R07.9,"Chest pain, unspecified",I10,A,Admitting,2024-10-04 19:37:09,1
+V1900064,53685553,R07.9,"Chest pain, unspecified",I10,F,Final,2024-10-05 00:53:24,1
+V1900065,53685553,R07.9,"Chest pain, unspecified",I10,A,Admitting,2024-11-26 18:09:32,1
+V1900065,53685553,R07.9,"Chest pain, unspecified",I10,F,Final,2024-11-26 20:53:25,1
+V1900066,53685553,I10,Essential (primary) hypertension,I10,A,Admitting,2024-12-11 11:56:35,1
+V1900066,53685553,I10,Essential (primary) hypertension,I10,F,Final,2024-12-11 12:46:35,1
+V1900066,53685553,E78.5,"Hyperlipidemia, unspecified",I10,F,Final,2024-12-11 12:46:35,2
+V1900067,53884251,J18.9,"Pneumonia, unspecified organism",I10,A,Admitting,2024-06-02 21:26:44,1
+V1900067,53884251,J96.01,Acute respiratory failure with hypoxia,I10,W,Working,2024-06-03 13:23:44,2
+V1900067,53884251,J18.9,"Pneumonia, unspecified organism",I10,F,Final,2024-06-04 14:06:02,1
+V1900067,53884251,J96.01,Acute respiratory failure with hypoxia,I10,F,Final,2024-06-04 14:06:02,2
+V1900067,53884251,E78.5,"Hyperlipidemia, unspecified",I10,F,Final,2024-06-04 14:06:02,3
+V1900068,53884251,J18.9,"Pneumonia, unspecified organism",I10,A,Admitting,2024-11-06 10:38:22,1
+V1900068,53884251,J18.9,"Pneumonia, unspecified organism",I10,F,Final,2024-11-10 11:00:31,1
+V1900069,55030204,J18.9,"Pneumonia, unspecified organism",I10,A,Admitting,2024-02-16 03:14:34,1
+V1900069,55030204,J18.9,"Pneumonia, unspecified organism",I10,F,Final,2024-02-20 11:02:02,1
+V1900069,55030204,E78.5,"Hyperlipidemia, unspecified",I10,F,Final,2024-02-20 11:02:02,2
+V1900070,55030204,Z00.00,Encounter for general adult medical examination without abnormal findings,I10,A,Admitting,2024-03-03 13:11:43,1
+V1900070,55030204,Z00.00,Encounter for general adult medical examination without abnormal findings,I10,F,Final,2024-03-03 14:03:43,1
+V1900070,55030204,J44.9,"Chronic obstructive pulmonary disease, unspecified",I10,F,Final,2024-03-03 14:03:43,2
+V1900070,55030204,E78.5,"Hyperlipidemia, unspecified",I10,F,Final,2024-03-03 14:03:43,3
+V1900071,55030204,J18.9,"Pneumonia, unspecified organism",I10,A,Admitting,2024-03-23 03:52:52,1
+V1900071,55030204,J18.9,"Pneumonia, unspecified organism",I10,F,Final,2024-03-27 11:18:58,1
+V1900071,55030204,E11.9,Type 2 diabetes mellitus without complications,I10,F,Final,2024-03-27 11:18:58,2
+V1900072,55030204,N39.0,"Urinary tract infection, site not specified",I10,A,Admitting,2024-07-03 21:55:27,1
+V1900072,55030204,N39.0,"Urinary tract infection, site not specified",I10,F,Final,2024-07-04 02:54:50,1
+V1900072,55030204,E11.9,Type 2 diabetes mellitus without complications,I10,F,Final,2024-07-04 02:54:50,2
+V1900073,55030204,R07.9,"Chest pain, unspecified",I10,A,Admitting,2024-07-15 00:33:13,1
+V1900073,55030204,R07.9,"Chest pain, unspecified",I10,F,Final,2024-07-15 05:33:55,1
+V1900073,55030204,I50.22,Chronic systolic (congestive) heart failure,I10,F,Final,2024-07-15 05:33:55,2
+V1900073,55030204,J44.9,"Chronic obstructive pulmonary disease, unspecified",I10,F,Final,2024-07-15 05:33:55,3
+V1900073,55030204,E78.5,"Hyperlipidemia, unspecified",I10,F,Final,2024-07-15 05:33:55,4
+V1900073,55030204,I10,Essential (primary) hypertension,I10,F,Final,2024-07-15 05:33:55,5
+V1900074,55030204,I21.4,Non-ST elevation (NSTEMI) myocardial infarction,I10,A,Admitting,2024-08-20 19:06:23,1
+V1900074,55030204,I25.10,Atherosclerotic heart disease of native coronary artery without angina pectoris,I10,W,Working,2024-08-21 03:13:23,2
+V1900074,55030204,I21.4,Non-ST elevation (NSTEMI) myocardial infarction,I10,F,Final,2024-08-23 15:19:04,1
+V1900074,55030204,I25.10,Atherosclerotic heart disease of native coronary artery without angina pectoris,I10,F,Final,2024-08-23 15:19:04,2
+V1900074,55030204,E78.5,"Hyperlipidemia, unspecified",I10,F,Final,2024-08-23 15:19:04,3
+V1900075,55030204,I10,Essential (primary) hypertension,I10,A,Admitting,2024-09-11 11:55:55,1
+V1900075,55030204,I10,Essential (primary) hypertension,I10,F,Final,2024-09-11 12:30:55,1
+V1900075,55030204,I50.22,Chronic systolic (congestive) heart failure,I10,F,Final,2024-09-11 12:30:55,2
+V1900076,55030204,Z00.00,Encounter for general adult medical examination without abnormal findings,I10,A,Admitting,2024-09-20 09:20:30,1
+V1900076,55030204,Z00.00,Encounter for general adult medical examination without abnormal findings,I10,F,Final,2024-09-20 10:28:30,1
+V1900076,55030204,E11.9,Type 2 diabetes mellitus without complications,I10,F,Final,2024-09-20 10:28:30,2
+V1900076,55030204,E78.5,"Hyperlipidemia, unspecified",I10,F,Final,2024-09-20 10:28:30,3
+V1900076,55030204,I10,Essential (primary) hypertension,I10,F,Final,2024-09-20 10:28:30,4
+V1900077,57223526,I21.4,Non-ST elevation (NSTEMI) myocardial infarction,I10,A,Admitting,2024-05-20 04:22:24,1
+V1900077,57223526,I25.10,Atherosclerotic heart disease of native coronary artery without angina pectoris,I10,W,Working,2024-05-20 20:24:24,2
+V1900077,57223526,I21.4,Non-ST elevation (NSTEMI) myocardial infarction,I10,F,Final,2024-05-22 14:00:57,1
+V1900077,57223526,I25.10,Atherosclerotic heart disease of native coronary artery without angina pectoris,I10,F,Final,2024-05-22 14:00:57,2
+V1900077,57223526,E78.5,"Hyperlipidemia, unspecified",I10,F,Final,2024-05-22 14:00:57,3
+V1900078,62228167,Z00.00,Encounter for general adult medical examination without abnormal findings,I10,A,Admitting,2024-03-09 10:47:54,1
+V1900078,62228167,Z00.00,Encounter for general adult medical examination without abnormal findings,I10,F,Final,2024-03-09 11:18:54,1
+V1900079,63374633,I21.4,Non-ST elevation (NSTEMI) myocardial infarction,I10,A,Admitting,2024-08-24 14:48:03,1
+V1900079,63374633,I25.10,Atherosclerotic heart disease of native coronary artery without angina pectoris,I10,W,Working,2024-08-25 06:32:03,2
+V1900079,63374633,I21.4,Non-ST elevation (NSTEMI) myocardial infarction,I10,F,Final,2024-08-28 15:41:02,1
+V1900079,63374633,I25.10,Atherosclerotic heart disease of native coronary artery without angina pectoris,I10,F,Final,2024-08-28 15:41:02,2
+V1900079,63374633,J44.9,"Chronic obstructive pulmonary disease, unspecified",I10,F,Final,2024-08-28 15:41:02,3
+V1900079,63374633,I10,Essential (primary) hypertension,I10,F,Final,2024-08-28 15:41:02,4
+V1900080,63743554,R07.9,"Chest pain, unspecified",I10,A,Admitting,2024-07-08 10:51:16,1
+V1900080,63743554,R07.9,"Chest pain, unspecified",I10,F,Final,2024-07-08 14:50:53,1
+V1900080,63743554,I50.22,Chronic systolic (congestive) heart failure,I10,F,Final,2024-07-08 14:50:53,2
+V1900080,63743554,E11.9,Type 2 diabetes mellitus without complications,I10,F,Final,2024-07-08 14:50:53,3
+V1900080,63743554,E78.5,"Hyperlipidemia, unspecified",I10,F,Final,2024-07-08 14:50:53,4
+V1900080,63743554,I10,Essential (primary) hypertension,I10,F,Final,2024-07-08 14:50:53,5
+V1900081,63743554,R07.9,"Chest pain, unspecified",I10,A,Admitting,2024-07-29 20:45:23,1
+V1900081,63743554,R07.9,"Chest pain, unspecified",I10,F,Final,2024-07-30 00:20:47,1
+V1900081,63743554,I10,Essential (primary) hypertension,I10,F,Final,2024-07-30 00:20:47,2
+V1900082,63743554,R10.9,Unspecified abdominal pain,I10,A,Admitting,2024-09-15 07:48:10,1
+V1900082,63743554,R10.9,Unspecified abdominal pain,I10,F,Final,2024-09-15 11:36:01,1
+V1900082,63743554,R11.2,"Nausea with vomiting, unspecified",I10,F,Final,2024-09-15 11:36:01,2
+V1900082,63743554,I50.22,Chronic systolic (congestive) heart failure,I10,F,Final,2024-09-15 11:36:01,3
+V1900082,63743554,J44.9,"Chronic obstructive pulmonary disease, unspecified",I10,F,Final,2024-09-15 11:36:01,4
+V1900082,63743554,E78.5,"Hyperlipidemia, unspecified",I10,F,Final,2024-09-15 11:36:01,5
+V1900082,63743554,I10,Essential (primary) hypertension,I10,F,Final,2024-09-15 11:36:01,6
+V1900083,68186294,A41.9,"Sepsis, unspecified organism",I10,A,Admitting,2024-02-12 20:16:41,1
+V1900083,68186294,N39.0,"Urinary tract infection, site not specified",I10,W,Working,2024-02-13 04:41:41,2
+V1900083,68186294,N17.9,"Acute kidney failure, unspecified",I10,W,Working,2024-02-13 04:41:41,3
+V1900083,68186294,A41.9,"Sepsis, unspecified organism",I10,F,Final,2024-02-18 11:46:33,1
+V1900083,68186294,N39.0,"Urinary tract infection, site not specified",I10,F,Final,2024-02-18 11:46:33,2
+V1900083,68186294,N17.9,"Acute kidney failure, unspecified",I10,F,Final,2024-02-18 11:46:33,3
+V1900083,68186294,I10,Essential (primary) hypertension,I10,F,Final,2024-02-18 11:46:33,4
+V1900084,68186294,J18.9,"Pneumonia, unspecified organism",I10,A,Admitting,2024-03-11 17:07:20,1
+V1900084,68186294,J96.01,Acute respiratory failure with hypoxia,I10,W,Working,2024-03-12 08:12:20,2
+V1900084,68186294,J18.9,"Pneumonia, unspecified organism",I10,F,Final,2024-03-13 14:51:09,1
+V1900084,68186294,J96.01,Acute respiratory failure with hypoxia,I10,F,Final,2024-03-13 14:51:09,2
+V1900085,68186294,I10,Essential (primary) hypertension,I10,A,Admitting,2024-08-26 09:33:15,1
+V1900085,68186294,I10,Essential (primary) hypertension,I10,F,Final,2024-08-26 10:01:15,1
+V1900086,69933266,I50.23,Acute on chronic systolic (congestive) heart failure,I10,A,Admitting,2024-01-11 01:33:49,1
+V1900086,69933266,I50.23,Acute on chronic systolic (congestive) heart failure,I10,F,Final,2024-01-15 11:04:47,1
+V1900086,69933266,E78.5,"Hyperlipidemia, unspecified",I10,F,Final,2024-01-15 11:04:47,2
+V1900086,69933266,I10,Essential (primary) hypertension,I10,F,Final,2024-01-15 11:04:47,3
+V1900087,70010530,R07.9,"Chest pain, unspecified",I10,A,Admitting,2024-05-21 20:03:13,1
+V1900087,70010530,R07.9,"Chest pain, unspecified",I10,F,Final,2024-05-21 23:06:30,1
+V1900087,70010530,I10,Essential (primary) hypertension,I10,F,Final,2024-05-21 23:06:30,2
+V1900088,70010530,R10.9,Unspecified abdominal pain,I10,A,Admitting,2024-11-12 15:38:03,1
+V1900088,70010530,R10.9,Unspecified abdominal pain,I10,F,Final,2024-11-12 18:52:01,1
+V1900088,70010530,I10,Essential (primary) hypertension,I10,F,Final,2024-11-12 18:52:01,2
+V1900089,70806470,R10.9,Unspecified abdominal pain,I10,A,Admitting,2024-06-02 09:32:05,1
+V1900089,70806470,R10.9,Unspecified abdominal pain,I10,F,Final,2024-06-02 15:08:28,1
+V1900089,70806470,R11.2,"Nausea with vomiting, unspecified",I10,F,Final,2024-06-02 15:08:28,2
+V1900089,70806470,E78.5,"Hyperlipidemia, unspecified",I10,F,Final,2024-06-02 15:08:28,3
+V1900090,71269783,N39.0,"Urinary tract infection, site not specified",I10,A,Admitting,2024-03-21 17:01:24,1
+V1900090,71269783,N39.0,"Urinary tract infection, site not specified",I10,F,Final,2024-03-21 23:21:21,1
+V1900090,71269783,E78.5,"Hyperlipidemia, unspecified",I10,F,Final,2024-03-21 23:21:21,2
+V1900090,71269783,I10,Essential (primary) hypertension,I10,F,Final,2024-03-21 23:21:21,3
+V1900091,72233775,Z00.00,Encounter for general adult medical examination without abnormal findings,I10,A,Admitting,2024-08-23 08:31:05,1
+V1900091,72233775,Z00.00,Encounter for general adult medical examination without abnormal findings,I10,F,Final,2024-08-23 09:27:05,1
+V1900091,72233775,I10,Essential (primary) hypertension,I10,F,Final,2024-08-23 09:27:05,2
+V1900092,72446089,S06.0X0A,"Concussion without loss of consciousness, initial encounter",I10,A,Admitting,2024-06-19 23:11:25,1
+V1900092,72446089,S06.0X0A,"Concussion without loss of consciousness, initial encounter",I10,F,Final,2024-06-20 03:29:55,1
+V1900092,72446089,W19.XXXA,"Unspecified fall, initial encounter",I10,F,Final,2024-06-20 03:29:55,2
+V1900092,72446089,I10,Essential (primary) hypertension,I10,F,Final,2024-06-20 03:29:55,3
+V1900093,72446089,R07.9,"Chest pain, unspecified",I10,A,Admitting,2024-10-22 07:20:02,1
+V1900093,72446089,R07.9,"Chest pain, unspecified",I10,F,Final,2024-10-22 11:43:54,1
+V1900093,72446089,I50.22,Chronic systolic (congestive) heart failure,I10,F,Final,2024-10-22 11:43:54,2
+V1900093,72446089,J44.9,"Chronic obstructive pulmonary disease, unspecified",I10,F,Final,2024-10-22 11:43:54,3
+V1900093,72446089,E11.9,Type 2 diabetes mellitus without complications,I10,F,Final,2024-10-22 11:43:54,4
+V1900093,72446089,I10,Essential (primary) hypertension,I10,F,Final,2024-10-22 11:43:54,5
+V1900094,74415719,N39.0,"Urinary tract infection, site not specified",I10,A,Admitting,2024-03-22 17:41:05,1
+V1900094,74415719,N39.0,"Urinary tract infection, site not specified",I10,F,Final,2024-03-22 22:04:54,1
+V1900095,75370802,I21.4,Non-ST elevation (NSTEMI) myocardial infarction,I10,A,Admitting,2024-02-08 03:40:19,1
+V1900095,75370802,I21.4,Non-ST elevation (NSTEMI) myocardial infarction,I10,F,Final,2024-02-10 10:56:04,1
+V1900095,75370802,E78.5,"Hyperlipidemia, unspecified",I10,F,Final,2024-02-10 10:56:04,2
+V1900096,75605334,Z00.00,Encounter for general adult medical examination without abnormal findings,I10,A,Admitting,2024-04-04 13:12:35,1
+V1900096,75605334,Z00.00,Encounter for general adult medical examination without abnormal findings,I10,F,Final,2024-04-04 14:22:35,1
+V1900096,75605334,E78.5,"Hyperlipidemia, unspecified",I10,F,Final,2024-04-04 14:22:35,2
+V1900096,75605334,I10,Essential (primary) hypertension,I10,F,Final,2024-04-04 14:22:35,3
+V1900097,75605334,I21.4,Non-ST elevation (NSTEMI) myocardial infarction,I10,A,Admitting,2024-04-20 21:21:21,1
+V1900097,75605334,I25.10,Atherosclerotic heart disease of native coronary artery without angina pectoris,I10,W,Working,2024-04-21 18:20:21,2
+V1900097,75605334,I21.4,Non-ST elevation (NSTEMI) myocardial infarction,I10,F,Final,2024-04-24 10:39:16,1
+V1900097,75605334,I25.10,Atherosclerotic heart disease of native coronary artery without angina pectoris,I10,F,Final,2024-04-24 10:39:16,2
+V1900098,75605334,N39.0,"Urinary tract infection, site not specified",I10,A,Admitting,2024-08-23 20:22:39,1
+V1900098,75605334,N39.0,"Urinary tract infection, site not specified",I10,F,Final,2024-08-24 00:11:50,1
+V1900099,75605334,N39.0,"Urinary tract infection, site not specified",I10,A,Admitting,2024-10-23 17:32:29,1
+V1900099,75605334,N39.0,"Urinary tract infection, site not specified",I10,F,Final,2024-10-23 23:23:57,1
+V1900100,75629071,N39.0,"Urinary tract infection, site not specified",I10,A,Admitting,2024-01-08 12:11:02,1
+V1900100,75629071,N39.0,"Urinary tract infection, site not specified",I10,F,Final,2024-01-08 18:26:01,1
+V1900100,75629071,E78.5,"Hyperlipidemia, unspecified",I10,F,Final,2024-01-08 18:26:01,2
+V1900101,75629071,R07.9,"Chest pain, unspecified",I10,A,Admitting,2024-01-22 22:32:42,1
+V1900101,75629071,R07.9,"Chest pain, unspecified",I10,F,Final,2024-01-23 02:01:16,1
+V1900101,75629071,J44.9,"Chronic obstructive pulmonary disease, unspecified",I10,F,Final,2024-01-23 02:01:16,2
+V1900101,75629071,E78.5,"Hyperlipidemia, unspecified",I10,F,Final,2024-01-23 02:01:16,3
+V1900101,75629071,I10,Essential (primary) hypertension,I10,F,Final,2024-01-23 02:01:16,4
+V1900102,77374590,R07.9,"Chest pain, unspecified",I10,A,Admitting,2024-08-12 23:18:06,1
+V1900102,77374590,R07.9,"Chest pain, unspecified",I10,F,Final,2024-08-13 05:30:04,1
+V1900103,77374590,R10.9,Unspecified abdominal pain,I10,A,Admitting,2024-08-31 17:05:09,1
+V1900103,77374590,R10.9,Unspecified abdominal pain,I10,F,Final,2024-08-31 23:09:51,1
+V1900104,77374590,A41.9,"Sepsis, unspecified organism",I10,A,Admitting,2024-11-11 22:10:00,1
+V1900104,77374590,N39.0,"Urinary tract infection, site not specified",I10,W,Working,2024-11-12 16:22:00,2
+V1900104,77374590,N17.9,"Acute kidney failure, unspecified",I10,W,Working,2024-11-12 16:22:00,3
+V1900104,77374590,A41.9,"Sepsis, unspecified organism",I10,F,Final,2024-11-19 10:37:38,1
+V1900104,77374590,N39.0,"Urinary tract infection, site not specified",I10,F,Final,2024-11-19 10:37:38,2
+V1900104,77374590,N17.9,"Acute kidney failure, unspecified",I10,F,Final,2024-11-19 10:37:38,3
+V1900104,77374590,E78.5,"Hyperlipidemia, unspecified",I10,F,Final,2024-11-19 10:37:38,4
+V1900105,77669636,E11.65,Type 2 diabetes mellitus with hyperglycemia,I10,A,Admitting,2024-03-13 11:34:40,1
+V1900105,77669636,E11.65,Type 2 diabetes mellitus with hyperglycemia,I10,F,Final,2024-03-13 12:12:40,1
+V1900105,77669636,E78.5,"Hyperlipidemia, unspecified",I10,F,Final,2024-03-13 12:12:40,2
+V1900105,77669636,I10,Essential (primary) hypertension,I10,F,Final,2024-03-13 12:12:40,3
+V1900106,78253644,Z00.00,Encounter for general adult medical examination without abnormal findings,I10,A,Admitting,2024-02-25 12:19:42,1
+V1900106,78253644,Z00.00,Encounter for general adult medical examination without abnormal findings,I10,F,Final,2024-02-25 12:47:42,1
+V1900107,78253644,A41.9,"Sepsis, unspecified organism",I10,A,Admitting,2024-09-13 19:49:08,1
+V1900107,78253644,N39.0,"Urinary tract infection, site not specified",I10,W,Working,2024-09-14 08:08:08,2
+V1900107,78253644,N17.9,"Acute kidney failure, unspecified",I10,W,Working,2024-09-14 08:08:08,3
+V1900107,78253644,A41.9,"Sepsis, unspecified organism",I10,F,Final,2024-09-21 10:35:18,1
+V1900107,78253644,N39.0,"Urinary tract infection, site not specified",I10,F,Final,2024-09-21 10:35:18,2
+V1900107,78253644,N17.9,"Acute kidney failure, unspecified",I10,F,Final,2024-09-21 10:35:18,3
+V1900107,78253644,I10,Essential (primary) hypertension,I10,F,Final,2024-09-21 10:35:18,4
+V1900108,78253644,I10,Essential (primary) hypertension,I10,A,Admitting,2024-11-09 07:58:34,1
+V1900108,78253644,I10,Essential (primary) hypertension,I10,F,Final,2024-11-09 08:43:34,1
+V1900109,78455981,I10,Essential (primary) hypertension,I10,A,Admitting,2024-05-20 12:25:22,1
+V1900109,78455981,I10,Essential (primary) hypertension,I10,F,Final,2024-05-20 13:31:22,1
+V1900109,78455981,I50.22,Chronic systolic (congestive) heart failure,I10,F,Final,2024-05-20 13:31:22,2
+V1900110,78455981,S06.0X0A,"Concussion without loss of consciousness, initial encounter",I10,A,Admitting,2024-11-01 02:00:33,1
+V1900110,78455981,S06.0X0A,"Concussion without loss of consciousness, initial encounter",I10,F,Final,2024-11-01 07:41:02,1
+V1900110,78455981,W19.XXXA,"Unspecified fall, initial encounter",I10,F,Final,2024-11-01 07:41:02,2
+V1900111,82616501,N39.0,"Urinary tract infection, site not specified",I10,A,Admitting,2024-09-02 05:31:41,1
+V1900111,82616501,N39.0,"Urinary tract infection, site not specified",I10,F,Final,2024-09-02 10:00:50,1
+V1900111,82616501,J44.9,"Chronic obstructive pulmonary disease, unspecified",I10,F,Final,2024-09-02 10:00:50,2
+V1900111,82616501,E11.9,Type 2 diabetes mellitus without complications,I10,F,Final,2024-09-02 10:00:50,3
+V1900111,82616501,E78.5,"Hyperlipidemia, unspecified",I10,F,Final,2024-09-02 10:00:50,4
+V1900111,82616501,I10,Essential (primary) hypertension,I10,F,Final,2024-09-02 10:00:50,5
+V1900112,82874677,R07.9,"Chest pain, unspecified",I10,A,Admitting,2024-06-21 17:25:49,1
+V1900112,82874677,R07.9,"Chest pain, unspecified",I10,F,Final,2024-06-21 21:21:32,1
+V1900112,82874677,E78.5,"Hyperlipidemia, unspecified",I10,F,Final,2024-06-21 21:21:32,2
+V1900113,85137581,I10,Essential (primary) hypertension,I10,A,Admitting,2024-01-20 14:38:35,1
+V1900113,85137581,I10,Essential (primary) hypertension,I10,F,Final,2024-01-20 15:20:35,1
+V1900113,85137581,I50.22,Chronic systolic (congestive) heart failure,I10,F,Final,2024-01-20 15:20:35,2
+V1900114,85137581,A41.9,"Sepsis, unspecified organism",I10,A,Admitting,2024-07-08 23:26:15,1
+V1900114,85137581,N39.0,"Urinary tract infection, site not specified",I10,W,Working,2024-07-09 14:59:15,2
+V1900114,85137581,N17.9,"Acute kidney failure, unspecified",I10,W,Working,2024-07-09 14:59:15,3
+V1900114,85137581,A41.9,"Sepsis, unspecified organism",I10,F,Final,2024-07-15 11:27:07,1
+V1900114,85137581,N39.0,"Urinary tract infection, site not specified",I10,F,Final,2024-07-15 11:27:07,2
+V1900114,85137581,N17.9,"Acute kidney failure, unspecified",I10,F,Final,2024-07-15 11:27:07,3
+V1900114,85137581,E11.9,Type 2 diabetes mellitus without complications,I10,F,Final,2024-07-15 11:27:07,4
+V1900114,85137581,E78.5,"Hyperlipidemia, unspecified",I10,F,Final,2024-07-15 11:27:07,5
+V1900114,85137581,I10,Essential (primary) hypertension,I10,F,Final,2024-07-15 11:27:07,6
+V1900115,85137581,I50.23,Acute on chronic systolic (congestive) heart failure,I10,A,Admitting,2024-11-22 19:51:24,1
+V1900115,85137581,N17.9,"Acute kidney failure, unspecified",I10,W,Working,2024-11-23 06:21:24,2
+V1900115,85137581,I50.23,Acute on chronic systolic (congestive) heart failure,I10,F,Final,2024-11-27 10:56:25,1
+V1900115,85137581,N17.9,"Acute kidney failure, unspecified",I10,F,Final,2024-11-27 10:56:25,2
+V1900116,87344814,J44.1,Chronic obstructive pulmonary disease with (acute) exacerbation,I10,A,Admitting,2024-01-24 23:17:28,1
+V1900116,87344814,J44.1,Chronic obstructive pulmonary disease with (acute) exacerbation,I10,F,Final,2024-01-28 09:57:11,1
+V1900116,87344814,E78.5,"Hyperlipidemia, unspecified",I10,F,Final,2024-01-28 09:57:11,2
+V1900116,87344814,I10,Essential (primary) hypertension,I10,F,Final,2024-01-28 09:57:11,3
+V1900117,87357294,R10.9,Unspecified abdominal pain,I10,A,Admitting,2024-07-16 12:20:33,1
+V1900117,87357294,R10.9,Unspecified abdominal pain,I10,F,Final,2024-07-16 18:20:21,1
+V1900117,87357294,R11.2,"Nausea with vomiting, unspecified",I10,F,Final,2024-07-16 18:20:21,2
+V1900117,87357294,E78.5,"Hyperlipidemia, unspecified",I10,F,Final,2024-07-16 18:20:21,3
+V1900118,89729034,A41.9,"Sepsis, unspecified organism",I10,A,Admitting,2024-09-09 04:55:46,1
+V1900118,89729034,N39.0,"Urinary tract infection, site not specified",I10,W,Working,2024-09-09 16:21:46,2
+V1900118,89729034,N17.9,"Acute kidney failure, unspecified",I10,W,Working,2024-09-09 16:21:46,3
+V1900118,89729034,A41.9,"Sepsis, unspecified organism",I10,F,Final,2024-09-15 10:40:53,1
+V1900118,89729034,N39.0,"Urinary tract infection, site not specified",I10,F,Final,2024-09-15 10:40:53,2
+V1900118,89729034,N17.9,"Acute kidney failure, unspecified",I10,F,Final,2024-09-15 10:40:53,3
+V1900118,89729034,J44.9,"Chronic obstructive pulmonary disease, unspecified",I10,F,Final,2024-09-15 10:40:53,4
+V1900118,89729034,E11.9,Type 2 diabetes mellitus without complications,I10,F,Final,2024-09-15 10:40:53,5
+V1900118,89729034,I10,Essential (primary) hypertension,I10,F,Final,2024-09-15 10:40:53,6
+V1900119,89729034,I10,Essential (primary) hypertension,I10,A,Admitting,2024-12-15 14:40:10,1
+V1900119,89729034,I10,Essential (primary) hypertension,I10,F,Final,2024-12-15 15:10:10,1
+V1900119,89729034,E78.5,"Hyperlipidemia, unspecified",I10,F,Final,2024-12-15 15:10:10,2
+V1900120,89852358,S06.0X0A,"Concussion without loss of consciousness, initial encounter",I10,A,Admitting,2024-01-20 04:48:55,1
+V1900120,89852358,S06.0X0A,"Concussion without loss of consciousness, initial encounter",I10,F,Final,2024-01-20 09:18:58,1
+V1900120,89852358,W19.XXXA,"Unspecified fall, initial encounter",I10,F,Final,2024-01-20 09:18:58,2
+V1900120,89852358,I10,Essential (primary) hypertension,I10,F,Final,2024-01-20 09:18:58,3
+V1900121,89852358,R10.9,Unspecified abdominal pain,I10,A,Admitting,2024-12-12 14:26:12,1
+V1900121,89852358,R10.9,Unspecified abdominal pain,I10,F,Final,2024-12-12 17:41:49,1
+V1900121,89852358,R11.2,"Nausea with vomiting, unspecified",I10,F,Final,2024-12-12 17:41:49,2
+V1900121,89852358,I10,Essential (primary) hypertension,I10,F,Final,2024-12-12 17:41:49,3
+V1900122,92233685,N39.0,"Urinary tract infection, site not specified",I10,A,Admitting,2024-03-28 17:23:39,1
+V1900122,92233685,N39.0,"Urinary tract infection, site not specified",I10,F,Final,2024-03-28 21:50:41,1
+V1900123,92233685,Z00.00,Encounter for general adult medical examination without abnormal findings,I10,A,Admitting,2024-11-30 11:23:52,1
+V1900123,92233685,Z00.00,Encounter for general adult medical examination without abnormal findings,I10,F,Final,2024-11-30 12:02:52,1
+V1900123,92233685,E78.5,"Hyperlipidemia, unspecified",I10,F,Final,2024-11-30 12:02:52,2
+V1900124,93175482,A41.9,"Sepsis, unspecified organism",I10,A,Admitting,2024-03-12 04:54:24,1
+V1900124,93175482,N39.0,"Urinary tract infection, site not specified",I10,W,Working,2024-03-12 17:38:24,2
+V1900124,93175482,N17.9,"Acute kidney failure, unspecified",I10,W,Working,2024-03-12 17:38:24,3
+V1900124,93175482,A41.9,"Sepsis, unspecified organism",I10,F,Final,2024-03-19 11:45:19,1
+V1900124,93175482,N39.0,"Urinary tract infection, site not specified",I10,F,Final,2024-03-19 11:45:19,2
+V1900124,93175482,N17.9,"Acute kidney failure, unspecified",I10,F,Final,2024-03-19 11:45:19,3
+V1900125,93200079,I10,Essential (primary) hypertension,I10,A,Admitting,2024-01-23 08:26:29,1
+V1900125,93200079,I10,Essential (primary) hypertension,I10,F,Final,2024-01-23 09:26:29,1
+V1900126,93200079,N39.0,"Urinary tract infection, site not specified",I10,A,Admitting,2024-03-15 09:32:03,1
+V1900126,93200079,N39.0,"Urinary tract infection, site not specified",I10,F,Final,2024-03-15 12:07:19,1
+V1900126,93200079,J44.9,"Chronic obstructive pulmonary disease, unspecified",I10,F,Final,2024-03-15 12:07:19,2
+V1900126,93200079,E11.9,Type 2 diabetes mellitus without complications,I10,F,Final,2024-03-15 12:07:19,3
+V1900127,93869637,N39.0,"Urinary tract infection, site not specified",I10,A,Admitting,2024-06-20 17:28:19,1
+V1900127,93869637,N39.0,"Urinary tract infection, site not specified",I10,F,Final,2024-06-20 20:24:18,1
+V1900128,93870596,R10.9,Unspecified abdominal pain,I10,A,Admitting,2024-06-22 21:08:16,1
+V1900128,93870596,R10.9,Unspecified abdominal pain,I10,F,Final,2024-06-23 03:34:08,1
+V1900128,93870596,R11.2,"Nausea with vomiting, unspecified",I10,F,Final,2024-06-23 03:34:08,2
+V1900128,93870596,J44.9,"Chronic obstructive pulmonary disease, unspecified",I10,F,Final,2024-06-23 03:34:08,3
+V1900129,94496893,I21.4,Non-ST elevation (NSTEMI) myocardial infarction,I10,A,Admitting,2024-05-16 22:05:17,1
+V1900129,94496893,I25.10,Atherosclerotic heart disease of native coronary artery without angina pectoris,I10,W,Working,2024-05-17 13:12:17,2
+V1900129,94496893,I21.4,Non-ST elevation (NSTEMI) myocardial infarction,I10,F,Final,2024-05-18 09:48:21,1
+V1900129,94496893,I25.10,Atherosclerotic heart disease of native coronary artery without angina pectoris,I10,F,Final,2024-05-18 09:48:21,2
+V1900130,95226345,R07.9,"Chest pain, unspecified",I10,A,Admitting,2024-01-18 20:02:23,1
+V1900130,95226345,R07.9,"Chest pain, unspecified",I10,F,Final,2024-01-18 23:28:01,1
+V1900130,95226345,E78.5,"Hyperlipidemia, unspecified",I10,F,Final,2024-01-18 23:28:01,2
+V1900131,95226345,I10,Essential (primary) hypertension,I10,A,Admitting,2024-01-20 14:46:58,1
+V1900131,95226345,I10,Essential (primary) hypertension,I10,F,Final,2024-01-20 15:28:58,1
+V1900132,95226345,E11.65,Type 2 diabetes mellitus with hyperglycemia,I10,A,Admitting,2024-02-11 12:34:30,1
+V1900132,95226345,E11.65,Type 2 diabetes mellitus with hyperglycemia,I10,F,Final,2024-02-11 13:25:30,1
+V1900132,95226345,I10,Essential (primary) hypertension,I10,F,Final,2024-02-11 13:25:30,2
+V1900133,95226345,R07.9,"Chest pain, unspecified",I10,A,Admitting,2024-03-24 05:23:59,1
+V1900133,95226345,R07.9,"Chest pain, unspecified",I10,F,Final,2024-03-24 09:46:40,1
+V1900133,95226345,E78.5,"Hyperlipidemia, unspecified",I10,F,Final,2024-03-24 09:46:40,2
+V1900134,95226345,N39.0,"Urinary tract infection, site not specified",I10,A,Admitting,2024-04-05 14:33:17,1
+V1900134,95226345,N39.0,"Urinary tract infection, site not specified",I10,F,Final,2024-04-05 19:44:07,1
+V1900134,95226345,J44.9,"Chronic obstructive pulmonary disease, unspecified",I10,F,Final,2024-04-05 19:44:07,2
+V1900134,95226345,E11.9,Type 2 diabetes mellitus without complications,I10,F,Final,2024-04-05 19:44:07,3
+V1900134,95226345,I10,Essential (primary) hypertension,I10,F,Final,2024-04-05 19:44:07,4
+V1900135,98054432,R07.9,"Chest pain, unspecified",I10,A,Admitting,2024-05-14 20:13:57,1
+V1900135,98054432,R07.9,"Chest pain, unspecified",I10,F,Final,2024-05-15 00:21:34,1
+V1900136,98054432,Z00.00,Encounter for general adult medical examination without abnormal findings,I10,A,Admitting,2024-09-06 11:47:12,1
+V1900136,98054432,Z00.00,Encounter for general adult medical examination without abnormal findings,I10,F,Final,2024-09-06 12:36:12,1
+V1900136,98054432,E78.5,"Hyperlipidemia, unspecified",I10,F,Final,2024-09-06 12:36:12,2
+V1900136,98054432,I10,Essential (primary) hypertension,I10,F,Final,2024-09-06 12:36:12,3
+V1900137,98442612,N39.0,"Urinary tract infection, site not specified",I10,A,Admitting,2024-11-26 10:04:11,1
+V1900137,98442612,N39.0,"Urinary tract infection, site not specified",I10,F,Final,2024-11-26 14:12:24,1
+V1900137,98442612,E78.5,"Hyperlipidemia, unspecified",I10,F,Final,2024-11-26 14:12:24,2
+V1900137,98442612,I10,Essential (primary) hypertension,I10,F,Final,2024-11-26 14:12:24,3
+V1900138,98799025,R07.9,"Chest pain, unspecified",I10,A,Admitting,2024-01-28 01:48:51,1
+V1900138,98799025,R07.9,"Chest pain, unspecified",I10,F,Final,2024-01-28 06:21:44,1
+V1900138,98799025,I50.22,Chronic systolic (congestive) heart failure,I10,F,Final,2024-01-28 06:21:44,2
+V1900138,98799025,E11.9,Type 2 diabetes mellitus without complications,I10,F,Final,2024-01-28 06:21:44,3
+V1900138,98799025,E78.5,"Hyperlipidemia, unspecified",I10,F,Final,2024-01-28 06:21:44,4
+V1900138,98799025,I10,Essential (primary) hypertension,I10,F,Final,2024-01-28 06:21:44,5
+V1900139,98799025,I10,Essential (primary) hypertension,I10,A,Admitting,2024-08-10 15:21:46,1
+V1900139,98799025,I10,Essential (primary) hypertension,I10,F,Final,2024-08-10 16:22:46,1
+V1900139,98799025,J44.9,"Chronic obstructive pulmonary disease, unspecified",I10,F,Final,2024-08-10 16:22:46,2
+V1900140,98799025,R10.9,Unspecified abdominal pain,I10,A,Admitting,2024-09-24 14:59:51,1
+V1900140,98799025,R10.9,Unspecified abdominal pain,I10,F,Final,2024-09-24 20:32:53,1
+V1900140,98799025,I10,Essential (primary) hypertension,I10,F,Final,2024-09-24 20:32:53,2
+V1900141,99260088,N39.0,"Urinary tract infection, site not specified",I10,A,Admitting,2024-09-03 11:25:37,1
+V1900141,99260088,N39.0,"Urinary tract infection, site not specified",I10,F,Final,2024-09-03 14:44:09,1
+V1900141,99260088,J44.9,"Chronic obstructive pulmonary disease, unspecified",I10,F,Final,2024-09-03 14:44:09,2
+V1900141,99260088,E11.9,Type 2 diabetes mellitus without complications,I10,F,Final,2024-09-03 14:44:09,3
+V1900141,99260088,E78.5,"Hyperlipidemia, unspecified",I10,F,Final,2024-09-03 14:44:09,4
+V1900142,99849332,J18.9,"Pneumonia, unspecified organism",I10,A,Admitting,2024-02-11 12:46:15,1
+V1900142,99849332,J96.01,Acute respiratory failure with hypoxia,I10,W,Working,2024-02-11 22:02:15,2
+V1900142,99849332,J18.9,"Pneumonia, unspecified organism",I10,F,Final,2024-02-13 12:41:43,1
+V1900142,99849332,J96.01,Acute respiratory failure with hypoxia,I10,F,Final,2024-02-13 12:41:43,2
+V1900142,99849332,E11.9,Type 2 diabetes mellitus without complications,I10,F,Final,2024-02-13 12:41:43,3
+V1900142,99849332,E78.5,"Hyperlipidemia, unspecified",I10,F,Final,2024-02-13 12:41:43,4
+V1900142,99849332,I10,Essential (primary) hypertension,I10,F,Final,2024-02-13 12:41:43,5
+V1900143,99849332,N39.0,"Urinary tract infection, site not specified",I10,A,Admitting,2024-03-06 15:06:46,1
+V1900143,99849332,N39.0,"Urinary tract infection, site not specified",I10,F,Final,2024-03-06 21:03:19,1
+V1900143,99849332,E78.5,"Hyperlipidemia, unspecified",I10,F,Final,2024-03-06 21:03:19,2
+V1900143,99849332,I10,Essential (primary) hypertension,I10,F,Final,2024-03-06 21:03:19,3
+V1900144,99849332,S06.0X0A,"Concussion without loss of consciousness, initial encounter",I10,A,Admitting,2024-05-08 00:14:18,1
+V1900144,99849332,S06.0X0A,"Concussion without loss of consciousness, initial encounter",I10,F,Final,2024-05-08 03:35:37,1
+V1900144,99849332,W19.XXXA,"Unspecified fall, initial encounter",I10,F,Final,2024-05-08 03:35:37,2
+V1900144,99849332,J44.9,"Chronic obstructive pulmonary disease, unspecified",I10,F,Final,2024-05-08 03:35:37,3
+V1900144,99849332,E11.9,Type 2 diabetes mellitus without complications,I10,F,Final,2024-05-08 03:35:37,4
+V1900144,99849332,E78.5,"Hyperlipidemia, unspecified",I10,F,Final,2024-05-08 03:35:37,5
+V1900145,99849332,Z00.00,Encounter for general adult medical examination without abnormal findings,I10,A,Admitting,2024-10-19 11:33:21,1
+V1900145,99849332,Z00.00,Encounter for general adult medical examination without abnormal findings,I10,F,Final,2024-10-19 12:25:21,1
+V1900145,99849332,I10,Essential (primary) hypertension,I10,F,Final,2024-10-19 12:25:21,2
+V1900146,99849332,E11.65,Type 2 diabetes mellitus with hyperglycemia,I10,A,Admitting,2024-10-28 11:42:48,1
+V1900146,99849332,E11.65,Type 2 diabetes mellitus with hyperglycemia,I10,F,Final,2024-10-28 12:21:48,1
+V1900147,99849332,I10,Essential (primary) hypertension,I10,A,Admitting,2024-11-11 13:48:13,1
+V1900147,99849332,I10,Essential (primary) hypertension,I10,F,Final,2024-11-11 14:46:13,1
+V1900147,99849332,E78.5,"Hyperlipidemia, unspecified",I10,F,Final,2024-11-11 14:46:13,2
+V1900148,99849332,I21.4,Non-ST elevation (NSTEMI) myocardial infarction,I10,A,Admitting,2024-12-12 10:58:32,1
+V1900148,99849332,I21.4,Non-ST elevation (NSTEMI) myocardial infarction,I10,F,Final,2024-12-14 14:48:01,1
+V1900148,99849332,I10,Essential (primary) hypertension,I10,F,Final,2024-12-14 14:48:01,2
+V1900149,99996980,Z00.00,Encounter for general adult medical examination without abnormal findings,I10,A,Admitting,2024-05-18 09:29:37,1
+V1900149,99996980,Z00.00,Encounter for general adult medical examination without abnormal findings,I10,F,Final,2024-05-18 10:11:37,1
+V1900150,99996980,I10,Essential (primary) hypertension,I10,A,Admitting,2024-12-24 14:05:20,1
+V1900150,99996980,I10,Essential (primary) hypertension,I10,F,Final,2024-12-24 14:37:20,1
